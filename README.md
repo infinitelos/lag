@@ -1,6 +1,6 @@
 # Local Augmented Generation
 
-This Python script allows you to provide a prompt and a context file, and it will generate a response in markdown format using the OpenAI ChatGPT language model or you can modify the llm object at the top of the script to another langchain llm instance.
+This Python script allows you to provide a prompt and a context file, and it will generate a response in markdown format using the OpenAI ChatGPT language model. You  also can easily modify the llm object at the top of the script to another langchain llm instance.
 
 ## Prerequisites
 - Python 3.x
